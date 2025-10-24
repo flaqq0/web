@@ -1,1 +1,3 @@
-lark #pip install lark
+flask
+flask-cors
+lark
